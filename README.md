@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning MERN
+- 💬 Ask me about React, javaScript
+- ⚡ Fun fact: Lazy
+
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, javaScript
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Lazy
