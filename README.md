@@ -1,8 +1,8 @@
 ### Hi there , I am 'thor404' 👋
 
 
-- 🔭 I’m currently working on React.
-- 🌱 I’m currently learning MERN
+- 🔭 I’m currently working on javaScript Projects.
+- 🌱 I’m currently learning javaScript
 - 💬 Ask me about React, javaScript
 - ⚡ Fun fact: Lazy
 
