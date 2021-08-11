@@ -1,10 +1,10 @@
 ### Hi there , I am 'thor404' 👋
 
 
-- 🔭 I’m currently working on javaScript Projects.
-- 🌱 I’m currently learning javaScript
-- 💬 Ask me about React, javaScript
-- ⚡ Fun fact: Lazy
+- 🔭 I’m currently working on :  javaScript Projects 
+- 🌱 I’m currently learning : javaScript
+- 💬 Ask me about : React, javaScript
+- ⚡ Fun fact : Lazy
 
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -43,7 +43,7 @@
 
 [facebook]:https://www.facebook.com/pluviophile404
 [Instagram]: https://www.instagram.com/torikus_/
-[twitter]: https://twitter.com/TorikusS
+[twitter]: https://twitter.com/torikus__
 [linkedin]: https://www.linkedin.com/in/torikus-sadik-8814861b3/
 [tumblr]: https://www.tumblr.com/blog/tori404
 
